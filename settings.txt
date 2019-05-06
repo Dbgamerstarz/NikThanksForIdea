@@ -1,0 +1,6 @@
+a:man-scream-01,
+b:man-scream-01,
+c:Evil_Laugh_Male_6-Himan-1359990674,
+d:Train_Honk_Horn_Clear-Mike_Koenig-1632487478,
+w:short_male_burp-Mike_Koenig-832127430,
+s:plane,
